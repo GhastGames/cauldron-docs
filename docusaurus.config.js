@@ -45,7 +45,7 @@ const config = {
             label: 'Getting started',
           },
           {
-            href: 'https://github.com/ghsatgames/cauldron',
+            href: 'https://github.com/ghastgames/cauldron',
             label: 'GitHub',
             position: 'right',
           },
@@ -72,8 +72,17 @@ const config = {
               },
             ],
           },
+          {
+            title: 'Legal',
+            items: [
+              {
+                label: 'Imprint',
+                href: 'https://cauldron.ghastgames.net/imprint.html',
+              },
+            ],
+          },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} GhastGames (Sprike, Jonah Kurdoglu) Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} GhastGames (Sprike, Jonah Kurdoglu). Built with Docusaurus`,
       },
       prism: {
         theme: lightCodeTheme,
