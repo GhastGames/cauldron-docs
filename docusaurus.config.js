@@ -23,7 +23,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/ghastgames/cauldron-docs/',
+          editUrl: 'https://github.com/ghastgames/cauldron-docs/blob/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
