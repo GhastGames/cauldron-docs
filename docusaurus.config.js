@@ -42,7 +42,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Getting started',
+            label: 'Docs',
           },
           {
             href: 'https://github.com/ghastgames/cauldron',
